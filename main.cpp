@@ -37,9 +37,6 @@ int main() {
 	double a = (double) rand() / (double) RAND_MAX * 10;
 	double b = (double) rand() / (double) RAND_MAX * 10;
 	double c = (double) rand() / (double) RAND_MAX * 10;
-	double d = (double) rand() / (double) RAND_MAX * 10;
-	double e = (double) rand() / (double) RAND_MAX * 10;
-	double f = (double) rand() / (double) RAND_MAX * 10;
 
 
 	double eps = 1e-6;
